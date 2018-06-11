@@ -1,0 +1,374 @@
+:Base EV4help
+:Title EViews 4.1 Help
+:Index EViews 4.1 Help=ev4help.hlp
+1 Read Me - EViews 4.1=readme41_rtf_94680>Main
+1 Documentation Updates=newdocs_rtf_95700>Main
+1 What's New in EViews 4.0
+2 Intro - What's New in EViews 4.0=wnew40_rtf_91574>Main
+2 EViews 4.0 New Features Summary=wnew40_rtf_98071>Main
+2 Important Version 4.0 Compatibility Notes=wnew40_rtf_91643>Main
+1 What's New in EViews 4.1
+2 Intro - What's New in EViews 4.1=wnew41_rtf_95700>Main
+2 EViews 4.1 New Features Summary=wnew41_rtf_107699>Main
+1 Registering EViews
+2 Intro - Registering EViews=register_rtf_101569>Main
+1 Introduction
+2 Intro -  Introduction=intro_rtf_36959>Main
+2 What Is EViews?=intro_rtf_36960>Main
+2 Installing and Running EViews=intro_rtf_97551>Main
+2 Windows Basics=intro_rtf_57850>Main
+2 The EViews Window=intro_rtf_95918>Main
+2 Closing EViews=intro_rtf_37219>Main
+2 Where To Go For Help=intro_rtf_37224>Main
+1 A Demonstration
+2 Intro -  A Demonstration=demo_rtf_91558>Main
+2 Creating a Workfile and Importing Data=demo_rtf_91571>Main
+2 Verifying the Data=demo_rtf_91616>Main
+2 Examining the Data=demo_rtf_91637>Main
+2 Estimating a Regression Model=demo_rtf_91667>Main
+2 Specification and Hypothesis Tests=demo_rtf_91701>Main
+2 Modifying the Equation=demo_rtf_91722>Main
+2 Forecasting from an Estimated Equation=demo_rtf_91741>Main
+2 Additional Issues=demo_rtf_91787>Main
+1 EViews Basics
+2 Intro -  EViews Basics=basics_rtf_36959>Main
+2 Workfile Basics=basics_rtf_36968>Main
+2 Object Basics=basics_rtf_37144>Main
+2 Commands=basics_rtf_77460>Main
+1 Basic Data Handling
+2 Intro -  Basic Data Handling=basedata_rtf_88945>Main
+2 Samples=basedata_rtf_348>Main
+2 Importing Data=basedata_rtf_511>Main
+2 Exporting Data=basedata_rtf_184705>Main
+2 Frequency Conversion=basedata_rtf_130221>Main
+2 Commands for Basic Data Handling=basedata_rtf_61925>Main
+2 Addendum: Reading ASCII Files=basedata_rtf_61944>Main
+2 Addendum: Matrix Object Reading and Writing=basedata_rtf_62051>Main
+1 Working with Data
+2 Intro -  Working with Data=workdata_rtf_36959>Main
+2 Using Expressions=workdata_rtf_36961>Main
+2 Working with Series=workdata_rtf_37161>Main
+2 Working with Auto-series=workdata_rtf_37256>Main
+2 Working with Groups of Series=workdata_rtf_37323>Main
+2 Working with Scalars=workdata_rtf_37380>Main
+1 EViews Databases
+2 Intro -  EViews Databases=database_rtf_36960>Main
+2 An Overview=database_rtf_36966>Main
+2 Database Basics=database_rtf_36975>Main
+2 Working with Objects in Databases=database_rtf_37047>Main
+2 Database Auto-Series=database_rtf_37293>Main
+2 The Database Registry=database_rtf_101571>Main
+2 Querying the Database=database_rtf_37366>Main
+2 Object Aliases and Illegal Names=database_rtf_58493>Main
+2 Maintaining the Database=database_rtf_37599>Main
+2 Foreign Format Databases=database_rtf_58890>Main
+2 Working with DRIPro Links=database_rtf_65586>Main
+2 Commands=database_rtf_37768>Main
+1 Series
+2 Intro -  Series=series_rtf_105292>Main
+2 Series Views=series_rtf_36973>Main
+2 Spreadsheet and Graph Views=series_rtf_36978>Main
+2 Descriptive Statistics=series_rtf_36992>Main
+2 Tests for Descriptive Stats=series_rtf_37093>Main
+2 Distribution Graphs=series_rtf_37388>Main
+2 One-Way Tabulation=series_rtf_37409>Main
+2 Correlogram=series_rtf_37424>Main
+2 Unit Root Test=series_rtf_37553>Main
+2 BDS Test=series_rtf_105318>Main
+2 Conversion Options=series_rtf_37562>Main
+2 Label=series_rtf_37571>Main
+2 Series Procs=series_rtf_37585>Main
+2 Generate by Equation=series_rtf_37591>Main
+2 Resampling=series_rtf_105455>Main
+2 Seasonal Adjustment=series_rtf_37597>Main
+2 Exponential Smoothing=series_rtf_37725>Main
+2 Hodrick-Prescott Filter=series_rtf_37964>Main
+2 Commands=series_rtf_38009>Main
+1 Groups
+2 Intro -  Groups=groups_rtf_26939>Main
+2 Views from a Group Window=groups_rtf_182323>Main
+2 Group Members=groups_rtf_102739>Main
+2 Spreadsheet=groups_rtf_26966>Main
+2 Dated Data Table=groups_rtf_176386>Main
+2 Graphs=groups_rtf_27210>Main
+2 Descriptive Statistics=groups_rtf_27318>Main
+2 N-Way Tabulation=groups_rtf_27358>Main
+2 Principal Components=groups_rtf_186627>Main
+2 Correlations, Covariances, and Correlograms=groups_rtf_27513>Main
+2 Cross Correlations and Correlograms=groups_rtf_27521>Main
+2 Cointegration Test=groups_rtf_27545>Main
+2 Granger Causality=groups_rtf_27548>Main
+2 Label=groups_rtf_27644>Main
+2 Group Procedures=groups_rtf_27648>Main
+2 Commands=groups_rtf_27652>Main
+1 Graphs, Tables, and Text Objects
+2 Intro -  Graphs, Tables, and Text Objects=graphtab_rtf_36959>Main
+2 Creating Graphs=graphtab_rtf_56233>Main
+2 Modifying Graphs=graphtab_rtf_65655>Main
+2 Multiple Graphs=graphtab_rtf_37150>Main
+2 Printing Graphs=graphtab_rtf_37190>Main
+2 Copying Graphs to Other Windows Programs=graphtab_rtf_37199>Main
+2 Graph Commands=graphtab_rtf_56871>Main
+2 Tables=graphtab_rtf_131427>Main
+2 Copying Tables to Other Windows Programs=graphtab_rtf_37257>Main
+2 Text Objects=graphtab_rtf_37272>Main
+2 Commands=graphtab_rtf_37279>Main
+1 Statistical Graphs Using Series and Groups
+2 Intro -  Statistical Graphs Using Series and Groups=statview_rtf_36959>Main
+2 Distribution Graphs of Series=statview_rtf_36967>Main
+2 Scatter Diagrams with Fit Lines=statview_rtf_37281>Main
+2 Commands=statview_rtf_37702>Main
+1 Basic Regression
+2 Intro -  Basic Regression=regress1_rtf_36959>Main
+2 Equation Objects=regress1_rtf_36969>Main
+2 Specifying an Equation in EViews=regress1_rtf_40591>Main
+2 Estimating an Equation in EViews=regress1_rtf_37056>Main
+2 Equation Output=regress1_rtf_64167>Main
+2 Working with Equations=regress1_rtf_37509>Main
+2 Estimation Problems=regress1_rtf_37651>Main
+2 Commands=regress1_rtf_37669>Main
+1 Additional Regression Methods
+2 Intro -  Additional Regression Methods=regressa_rtf_36961>Main
+2 Weighted Least Squares=regressa_rtf_36975>Main
+2 Heteroskedasticity and Autocorrelation Consistent Covariances=regressa_rtf_37029>Main
+2 Two-stage Least Squares=regressa_rtf_37084>Main
+2 Nonlinear Least Squares=regressa_rtf_37275>Main
+2 Generalized Method of Moments (GMM)=regressa_rtf_37598>Main
+2 Commands=regressa_rtf_37708>Main
+1 Time Series Regression
+2 Intro -  Time Series Regression=timeser_rtf_36959>Main
+2 Serial Correlation Theory=timeser_rtf_36986>Main
+2 Testing for Serial Correlation=timeser_rtf_37063>Main
+2 Estimating AR Models=timeser_rtf_37148>Main
+2 ARIMA Theory=timeser_rtf_37294>Main
+2 Estimating ARIMA Models=timeser_rtf_37365>Main
+2 Diagnostic Evaluation=timeser_rtf_37708>Main
+2 Polynomial Distributed Lags (PDLs)=timeser_rtf_37722>Main
+2 Nonstationary Time Series=timeser_rtf_37916>Main
+2 Unit Root Tests=timeser_rtf_37939>Main
+2 Commands=timeser_rtf_38106>Main
+1 Forecasting from an Equation
+2 Intro -  Forecasting from an Equation=forecast_rtf_881>Main
+2 Forecasting from Equations in EViews=forecast_rtf_895>Main
+2 Illustration=forecast_rtf_958>Main
+2 Forecast Basics=forecast_rtf_1006>Main
+2 Forecasts with Lagged Dependent Variables=forecast_rtf_1232>Main
+2 Forecasting with ARMA Errors=forecast_rtf_1308>Main
+2 Forecasting Equations with Formulas=forecast_rtf_1415>Main
+2 Forecasting with Nonlinear and PDL Specifications=forecast_rtf_1535>Main
+2 Commands=forecast_rtf_1557>Main
+1 Specification and Diagnostic Tests
+2 Intro -  Specification and Diagnostic Tests=testing_rtf_36965>Main
+2 Background=testing_rtf_36970>Main
+2 Types of Tests=testing_rtf_36985>Main
+2 Residual Tests=testing_rtf_37306>Main
+2 Specification and Stability Tests=testing_rtf_37494>Main
+2 Applications=testing_rtf_37953>Main
+2 Commands=testing_rtf_38106>Main
+1 ARCH and GARCH Estimation
+2 Intro -  ARCH and GARCH Estimation=arch_rtf_48636>Main
+2 The ARCH Specification=arch_rtf_49706>Main
+2 Estimating ARCH models in EViews=arch_rtf_48812>Main
+2 Working with ARCH Models=arch_rtf_48931>Main
+2 Asymmetric ARCH Models=arch_rtf_49080>Main
+2 The Component ARCH Model=arch_rtf_49283>Main
+2 Estimating and Interpreting Models in EViews=arch_rtf_49360>Main
+2 Examples=arch_rtf_49392>Main
+2 Commands=arch_rtf_49450>Main
+1 Discrete and Limited Dependent Variable Models
+2 Intro -  Discrete and Limited Dependent Variable Models=limdep_rtf_36959>Main
+2 Binary Dependent Variable Models=limdep_rtf_36980>Main
+2 Estimating Binary Models in EViews=limdep_rtf_37071>Main
+2 Procedures for Binary Equations=limdep_rtf_37428>Main
+2 Ordered Dependent Variable Models=limdep_rtf_37596>Main
+2 Estimating Ordered Models in EViews=limdep_rtf_37665>Main
+2 Views of Ordered Equations=limdep_rtf_37742>Main
+2 Procedures for Ordered Equations=limdep_rtf_37754>Main
+2 Censored Regression Models=limdep_rtf_37805>Main
+2 Estimating Censored Models in EViews=limdep_rtf_37880>Main
+2 Procedures for Censored Equations=limdep_rtf_38014>Main
+2 Truncated Regression Models=limdep_rtf_38155>Main
+2 Procedures for Truncated Equations=limdep_rtf_38203>Main
+2 Count Models=limdep_rtf_38300>Main
+2 Views of Count Models=limdep_rtf_38475>Main
+2 Procedures for Count Models=limdep_rtf_38496>Main
+2 Demonstrations=limdep_rtf_38555>Main
+2 Commands=limdep_rtf_38628>Main
+2 Technical Notes=limdep_rtf_38646>Main
+1 The Log Likelihood (LogL) Object
+2 Intro -  The Log Likelihood (LogL) Object=loglike_rtf_15432>Main
+2 Overview=loglike_rtf_214>Main
+2 Specification=loglike_rtf_15418>Main
+2 Estimation=loglike_rtf_454>Main
+2 LogL Views=loglike_rtf_497>Main
+2 LogL Procs=loglike_rtf_14018>Main
+2 Troubleshooting=loglike_rtf_558>Main
+2 Limitations=loglike_rtf_578>Main
+2 Examples=loglike_rtf_616>Main
+1 System Estimation
+2 Intro -  System Estimation=system_rtf_36959>Main
+2 Background=system_rtf_36965>Main
+2 System Estimation Methods=system_rtf_36996>Main
+2 How to Create and Specify a System=system_rtf_37073>Main
+2 Working With Systems=system_rtf_37193>Main
+2 Commands=system_rtf_37293>Main
+2 Technical Discussion=system_rtf_37306>Main
+1 Vector Autoregression and Error Correction Models
+2 Intro -  Vector Autoregression and Error Correction Models=var_rtf_36959>Main
+2 Vector Autoregressions (VARs)=var_rtf_36966>Main
+2 How to Estimate a VAR=var_rtf_36995>Main
+2 VAR Estimation Output=var_rtf_37017>Main
+2 Views and Procs of a VAR=var_rtf_37067>Main
+2 Structural (Identified) VARs=var_rtf_160351>Main
+2 Cointegration Test=var_rtf_37240>Main
+2 Vector Error Correction (VEC) Models=var_rtf_58588>Main
+2 A Note on EViews Backward Compatibility=var_rtf_60061>Main
+1 Pooled Time Series, Cross-Section Data
+2 Intro -  Pooled Time Series, Cross-Section Data=pool_rtf_36959>Main
+2 Creating a Workfile for Pooled Data=pool_rtf_36965>Main
+2 The Pool Object=pool_rtf_36968>Main
+2 Importing Pooled Data=pool_rtf_37016>Main
+2 Exporting Pooled Data=pool_rtf_37106>Main
+2 Working with Pooled Data=pool_rtf_37108>Main
+2 Pooled Estimation=pool_rtf_37190>Main
+2 Commands=pool_rtf_37398>Main
+2 Technical Discussion=pool_rtf_37413>Main
+1 State Space Models and the Kalman Filter
+2 Intro -  State Space Models and the Kalman Filter=sspace_rtf_24378>Main
+2 Background=sspace_rtf_23194>Main
+2 Specifying a State Space Model in EViews=sspace_rtf_25689>Main
+2 Working with the State Space=sspace_rtf_60187>Main
+2 Converting from Version 3 Sspace=sspace_rtf_43313>Main
+2 Commands=sspace_rtf_116687>Main
+2 Technical Discussion=sspace_rtf_139140>Main
+1 Models
+2 Intro -  Models=models_rtf_51026>Main
+2 Overview=models_rtf_51031>Main
+2 An Example Model=models_rtf_51147>Main
+2 Building a Model=models_rtf_51318>Main
+2 Working with the Model Structure=models_rtf_51341>Main
+2 Specifying Scenarios=models_rtf_51411>Main
+2 Using Add Factors=models_rtf_51428>Main
+2 Solving the Model=models_rtf_51462>Main
+2 Working with the Model Data=models_rtf_51538>Main
+2 Commands=models_rtf_10429>Main
+1 Global Options
+2 Intro -  Global Options=globalap_rtf_122437>Main
+2 Setting Options=globalap_rtf_122422>Main
+1 Date Formats
+2 Intro -  Date Formats=dateapp_rtf_36924>Main
+2 Date Specification=dateapp_rtf_36929>Main
+2 Implicit Dating=dateapp_rtf_36961>Main
+2 Special Date Functions=dateapp_rtf_36996>Main
+2 Examples=dateapp_rtf_37011>Main
+1 Wildcards
+2 Intro -  Wildcards=wildcard_rtf_92046>Main
+2 Wildcard Expressions=wildcard_rtf_36933>Main
+2 Using Wildcard Expressions=wildcard_rtf_36938>Main
+2 Source and Destination Patterns=wildcard_rtf_51283>Main
+2 Resolving Ambiguities=wildcard_rtf_51278>Main
+2 Wildcard versus Pool Identifier=wildcard_rtf_116487>Main
+1 Estimation Algorithms and Options
+2 Intro -  Estimation Algorithms and Options=optimize_rtf_36924>Main
+2 Optimization Algorithms=optimize_rtf_36929>Main
+2 Setting Estimation Options=optimize_rtf_104928>Main
+2 Nonlinear Equation Solution Methods=optimize_rtf_37095>Main
+1 Gradients and Derivatives
+2 Intro -  Gradients and Derivatives=gradapp_rtf_36924>Main
+2 Gradients=gradapp_rtf_96865>Main
+2 Derivatives=gradapp_rtf_97370>Main
+1 Information Criteria
+2 Intro -  Information Criteria=infoapp_rtf_36924>Main
+2 Definitions=infoapp_rtf_36929>Main
+2 Using Information Criteria as a Guide to Model Selection=infoapp_rtf_36987>Main
+1 Introduction to Command Reference
+2 Intro -  Introduction to Command Reference=cintro_rtf_33824>Main
+2 Using Commands=cintro_rtf_123>Main
+2 Batch Program Use=cintro_rtf_164>Main
+1 Object and Command Basics
+2 Intro -  Object and Command Basics=cbasics_rtf_194>Main
+2 Object Declaration=cbasics_rtf_234>Main
+2 Object Commands=cbasics_rtf_309>Main
+2 Object Assignment Statements=cbasics_rtf_433>Main
+2 More on Declaring Objects=cbasics_rtf_455>Main
+2 Auxiliary Commands=cbasics_rtf_501>Main
+2 Managing Workfiles and Databases=cbasics_rtf_531>Main
+2 Managing Objects=cbasics_rtf_642>Main
+2 Basic Command Summary=cbasics_rtf_728>Main
+1 Object, View and Procedure Reference
+2 Intro -  Object, View and Procedure Reference=cobjects_rtf_44613>Main
+2 Coef=cobjects_rtf_136279>Main
+2 Equation=cobjects_rtf_44934>Main
+2 Graph=cobjects_rtf_45161>Main
+2 Group=cobjects_rtf_45296>Main
+2 Logl=cobjects_rtf_88175>Main
+2 Matrix=cobjects_rtf_45438>Main
+2 Model=cobjects_rtf_45519>Main
+2 Pool=cobjects_rtf_45571>Main
+2 Rowvector=cobjects_rtf_45741>Main
+2 Sample=cobjects_rtf_45809>Main
+2 Scalar=cobjects_rtf_45830>Main
+2 Series=cobjects_rtf_45844>Main
+2 Sspace=cobjects_rtf_44622>Main
+2 Sym=cobjects_rtf_46110>Main
+2 System=cobjects_rtf_46180>Main
+2 Table=cobjects_rtf_46325>Main
+2 Var=cobjects_rtf_46358>Main
+2 Vector=cobjects_rtf_46472>Main
+1 Matrix Language
+2 Intro -  Matrix Language=cmatrix_rtf_68482>Main
+2 Declaring Matrices=cmatrix_rtf_68496>Main
+2 Assigning Matrix Values=cmatrix_rtf_68536>Main
+2 Copying Data Between Objects=cmatrix_rtf_68646>Main
+2 Matrix Expressions=cmatrix_rtf_68822>Main
+2 Matrix Commands and Functions=cmatrix_rtf_68927>Main
+2 Matrix Views and Procs=cmatrix_rtf_68982>Main
+2 Matrix Operations versus Loop Operations=cmatrix_rtf_95876>Main
+2 Summary of Automatic Resizing of Matrix Objects=cmatrix_rtf_69063>Main
+2 Matrix Function and Command Summary=cmatrix_rtf_69246>Main
+1 Working with Tables
+2 Intro -  Working with Tables=ctables_rtf_120>Main
+2 Declaring a Table=ctables_rtf_136>Main
+2 Controlling Appearance=ctables_rtf_150>Main
+2 Filling Cells=ctables_rtf_174>Main
+2 Table Example=ctables_rtf_280>Main
+2 Table Summary=ctables_rtf_9231>Main
+1 EViews Programming
+2 Intro -  EViews Programming=cprogram_rtf_113>Main
+2 Program Basics=cprogram_rtf_129>Main
+2 Simple Programs=cprogram_rtf_248>Main
+2 Program Variables=cprogram_rtf_316>Main
+2 Program Arguments=cprogram_rtf_598>Main
+2 Control of Execution=cprogram_rtf_42738>Main
+2 Multiple Program Files=cprogram_rtf_42747>Main
+2 Subroutines=cprogram_rtf_1170>Main
+2 Programming Summary=cprogram_rtf_1701>Main
+1 Sample Programs
+2 Intro -  Sample Programs=csample_rtf_106889>Main
+2 Descriptive Statistics by Year=csample_rtf_110247>Main
+2 Rolling ADF Test=csample_rtf_1753>Main
+2 Calculating Cumulative Sums=csample_rtf_7935>Main
+2 Time Series Operations on a Sample=csample_rtf_1869>Main
+2 Creating Dummy Variables with a Loop=csample_rtf_1949>Main
+2 Extracting Test Statistics in a Loop=csample_rtf_1995>Main
+2 Between Group Estimation for Pooled Data=csample_rtf_2076>Main
+2 Hausman Test for Fixed Versus Random Effects=csample_rtf_2181>Main
+2 Regression Output Table=csample_rtf_2282>Main
+1 Command Reference
+2 Intro -  Command Reference=commands_rtf_895543>Main
+1 Matrix and String Reference
+2 Intro -  Matrix and String Reference=matrixre_rtf_625442>Main
+1 Programming Language Reference
+2 Intro -  Programming Language Reference=progref_rtf_762127>Main
+1 Operator and Function Reference
+2 Intro -  Operator and Function Reference=mathapp_rtf_75406>Main
+2 Operators=mathapp_rtf_96969>Main
+2 Date and Observation Functions=mathapp_rtf_75509>Main
+2 Basic Mathematical Functions=mathapp_rtf_75561>Main
+2 Time Series Functions=mathapp_rtf_75716>Main
+2 Descriptive Statistics=mathapp_rtf_75868>Main
+2 Additional and Special Functions=mathapp_rtf_75986>Main
+2 Trigonometric Functions=mathapp_rtf_76178>Main
+2 Statistical Distribution Functions=mathapp_rtf_76254>Main
+1 References
+2 Intro - References=referenc_rtf_34095>Main
