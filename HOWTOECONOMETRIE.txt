@@ -12,7 +12,10 @@ VIF
 6. scalar vif= 1/(1-homoscedasticitate.@r2)
 7. if vif>5 variabile noi series variabilaNoua= variabilaVeche-variabilaVeche(-1)
 8. se creeaza o noua ecuatie ec1 consum c produs1 -taxe1 transfer1 cheltuieli1 inflatie1
-
+9. se verifica stationaritatea modelului
+	dublu click consum1 -> view -> Unit root test (VEZI WORD EXPLICATIE ZAMFIR)
+	Daca ecuatia este nestationara se creeaza o variabila d_import1
+10. se creeaza o noua ecuatie in functie de modelul arma identificat d_import1 c .....
 
 
 
