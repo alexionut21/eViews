@@ -1,0 +1,18 @@
+1. creaza var + import dat
+
+HOMOSCEDASTICITATE
+2. =@qchisq(.95,6)
+3. new -> object -> ecuation name ec consum c produs -taxe transfer cheltuieli inflatie
+4. ecuation tabel -> view -> residual test -> white hetero... (no cross terms)
+
+Verificarea Autocorelarii errorilor
+5. DURBIN WATSON TABEL PDF n=observatii (22) k=nr de var(6) 2.090 < 2.459016 < 4-2.090 TRUE
+
+VIF
+6. scalar vif= 1/(1-homoscedasticitate.@r2)
+7. if vif>5 variabile noi series variabilaNoua= variabilaVeche-variabilaVeche(-1)
+8. se creeaza o noua ecuatie ec1 consum c produs1 -taxe1 transfer1 cheltuieli1 inflatie1
+
+
+
+
